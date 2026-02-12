@@ -2,7 +2,7 @@
 
 Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.
 
-![alt text](public/images/shadcn-admin.png)
+![alt text](public/images/shadcn-admin.png1)
 
 ## Features
 
@@ -97,3 +97,4 @@ Start the server
 ## License
 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
